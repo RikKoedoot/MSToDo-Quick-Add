@@ -8,8 +8,20 @@ Identify yourself with your Microsoft/Outlook account on first task creation. A 
 Action key is "i" by default, but can be changed in the wox plugin settings.
 
 ## How to install
-I assume you already have installed the "Wox Launcher". If not, go to [Wox release page on github](https://github.com/Wox-launcher/Wox/releases), click on the latest version and follow the instructions.
 
-Type "wpm install MsTodo-Quick-Add" into the Wox launcher's bar.
+<p align="center">
+  <strong>
+‼Important : You have to install a recent version of "Wox Launcher"‼<br>
+    If not, the authentification will not work.
+  </strong>
+</p>
+
+<p>
+Go to <a href="https://github.com/Wox-launcher/Wox/releases">Wox's releases page on github</a> , click on the latest version (at least v1.4.1196) and follow the instructions.
+</p>
+
+<p>
+Type <strong>"wpm install MsTodo-Quick-Add"</strong> into the Wox launcher's bar to install the plugin.
+</p>
 
 
