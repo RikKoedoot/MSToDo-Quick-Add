@@ -1,0 +1,12 @@
+{
+    "ID": "5b6ef5c0-fa1b-423c-a56f-c7d9cb41d47f",
+    "ActionKeyword": "i",
+    "Name": "MsTodo-Quick-Add",
+    "Description": "Microsoft To Do task creation, linked to your Microsoft account.",
+    "Author": "Spectralgo",
+    "Version": "0.0.1",
+    "Language": "csharp",
+    "Website": "https://github.com/Spectralgo/MSToDo-Quick-Add",
+    "IcoPath": "app.png",
+    "ExecuteFileName": "Wox.Plugin.MSToDo.dll"
+}
