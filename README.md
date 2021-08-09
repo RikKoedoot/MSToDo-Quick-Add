@@ -1,2 +1,2 @@
 # MSToDo-Quick-Add
-Create task in Microsoft To Do from the Wox launcher.
+Create tasks for Microsoft To Do from the Wox launcher.
