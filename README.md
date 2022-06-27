@@ -1,3 +1,5 @@
+This is a fork of https://github.com/Spectralgo/MSToDo-Quick-Add, please have a look their original repo. This fork is trying to port MSTodo-Quick-Add to Flow-Launcher
+
 # MSToDo-Quick-Add
 ![Capture d’écran 2021-08-09 172322](https://user-images.githubusercontent.com/56794425/128717015-522e685a-a103-4cc4-859d-018b38b59b50.png)
 
